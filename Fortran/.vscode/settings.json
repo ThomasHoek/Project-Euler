@@ -1,0 +1,15 @@
+{
+   "files.associations": {
+      "*.f95": "FortranFreeForm",
+      "array": "c",
+      "deque": "c",
+      "string": "c",
+      "unordered_map": "c",
+      "vector": "c",
+      "string_view": "c",
+      "initializer_list": "c"
+   },
+   "python.linting.flake8Enabled": true,
+   "python.linting.mypyEnabled": false,
+   "python.linting.enabled": true
+}

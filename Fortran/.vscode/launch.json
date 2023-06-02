@@ -1,0 +1,15 @@
+{
+   "configurations": [
+    {
+        "name": "Run GDB",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceRoot}/debug/a.out",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceRoot}/debug/",
+        "externalConsole": false,
+        "MIMode": "gdb",
+    }
+   ] 
+}
